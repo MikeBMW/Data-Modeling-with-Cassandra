@@ -1,4 +1,4 @@
-# Sparkify: Data Modeling with Cassandra
+#  Data Modeling with Cassandra
 
 Sparkify is a startup with a music streaming app. Data scientists at Sparkify are particularly interested in understanding what songs users are listening to.
 
